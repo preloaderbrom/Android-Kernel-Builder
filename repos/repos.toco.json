@@ -2,9 +2,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/PixelOS-Devices/kernel_xiaomi_sm6150",
-      "branch": "fourteen",
-      "device": "toco",
+      "repo": "https://github.com/vendor-mtk-sources/Asus-Zenpad-10-Z300M/",
+      "branch": "Asus-Zenpad-10-Z300M",
       "defconfig": "toco_defconfig"
     },
     "withKernelSU": false,
@@ -39,8 +38,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/AndroidHQ254/AnyKernel3/",
-      "branch": "toco"
+      "repo": "https://github.com/preloaderbrom/AnyKernel3/",
+      "branch": "master"
     }
   }
 ]
