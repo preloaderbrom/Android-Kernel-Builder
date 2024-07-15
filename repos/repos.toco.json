@@ -4,7 +4,7 @@
       "name": "VantomKernel",
       "repo": "https://github.com/vendor-mtk-sources/Asus-Zenpad-10-Z300M/",
       "branch": "Asus-Zenpad-10-Z300M",
-      "defconfig": "toco_defconfig"
+      "defconfig": "defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
